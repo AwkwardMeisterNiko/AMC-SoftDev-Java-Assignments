@@ -12,13 +12,13 @@ public class ScannerInput04 {
         
         Scanner input = new Scanner (System.in);
         
-        System.out.println("\nPlease first dec number: ");
+        System.out.println("\nPlease provide first dec number: ");
         dec1=input.nextDouble();
         
-        System.out.println("\nPlease second dec number: ");
+        System.out.println("\nPlease provide second dec number: ");
         dec2=input.nextDouble();
         
-        System.out.println("\nPlease third dec number: ");
+        System.out.println("\nPlease provide third dec number: ");
         dec3=input.nextDouble();
         
         System.out.println("\nThe addition result is: ");
